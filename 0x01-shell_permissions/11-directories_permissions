@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+r-x
+chmod 555
