@@ -1,1 +1,1 @@
-Write a script that lists all files
+Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u
